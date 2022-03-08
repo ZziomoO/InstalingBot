@@ -1,7 +1,7 @@
 ### Czym jest instalingBot? What is instalingBot?
 **instalingBot** to skrypt napisany w Pythonie, wykonujący sesje na polskiej platformie do nauki języków. Skompilowaną wersję programu można znaleźć na **[mojej strone internetowej](http://instaling.xyz/)**.
 
-**instalingBot** is a script written in Python that performs sessions on the Polish platform for learning languages. The compiled version of the program can be found on **[my website](http://instaling.xyz/)**.
+**instalingBot** is a script typed in Python that performs sessions on the Polish platform for learning languages. The compiled version of the program can be found on **[my website](http://instaling.xyz/)**.
 ### Jakich technologii używa instalingBot? What technologies does the instalingBot use?
 **instalingBot** został napisany w **Pythonie** z użyciem biblioteki **Selenium** która współpracuje z przeglądarką **Mozilla Firefox**. Dane logowania użytkowników oraz słówka są przechowywane w plikach JSON. Oficjalne wersja udostępniona na **[mojej strone internetowej](http://instaling.xyz/)** zawiera dodatkowo prosty program napisany w **C#(WPF)** który pozwala zarządzać listą użytkowników.
 
