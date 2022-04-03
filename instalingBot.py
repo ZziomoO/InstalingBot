@@ -36,7 +36,7 @@ def LoginForm(login,password):
 def UsersLoop():
     while True:
         if IsSessionEnded():
-            DoAction(2,True,'/html/body/div/div[2]/div/p[8]/a')
+            DoAction(2,True,'//*[@id="student_panel"]/p[9]/a')
             break
         DoAction(2,False,'#know_new')
         DoAction(2,False,'#skip')
